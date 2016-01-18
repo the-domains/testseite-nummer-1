@@ -1,6 +1,6 @@
 name: Testseite Nummer 1
 favicon: null
-layout_spectrum: 0.464567253831774
+layout_spectrum: 0.21628
 typography_spectrum: 0.9388430425897241
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.6035247538238764
+  brandStrength: 0.875
   lightness: 0.3027851553633809
-  saturation: 0.8699801845941693
-  rhythmicContrast: 0.22637164522893727
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
